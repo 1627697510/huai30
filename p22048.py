@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 # coding=utf-8
-# ********************************************************
-# > OS     : Linux 3.2.0-60-generic #91-Ubuntu
-#   > Author : yaolong
-#   > Mail   : dengyaolong@yeah.net
-#   > Time   : 2014年06月01日 星期日 13:13:39
-# ********************************************************
 import random
 import copy
 
